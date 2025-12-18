@@ -47,10 +47,6 @@ The Android app has :
 
 <img width="507" alt="Screenshot 2023-11-17 at 5 06 35 PM" src="https://github.com/user-attachments/assets/1a9847ae-f4e0-4862-9ced-01c98ce0ed60">
 
-#### Video Calling:
-
-<img width="507" alt="Screenshot 2023-11-17 at 5 06 35 PM" src="https://github.com/user-attachments/assets/63c11990-9d19-44d9-85b3-4d4af869d413">
-
 ### Blogging
 
 <img width="507" alt="Screenshot 2023-11-17 at 5 06 35 PM" src="https://github.com/user-attachments/assets/7f374fdd-f924-44bb-a93c-853c6e05f5da">
@@ -91,9 +87,4 @@ Render Deployment: The ML-driven Medical Recommendations feature utilizes advanc
 - Pandas
 
 
-## Meet The Team
-- Shreyash Delmade | [Github](https://github.com/shreyashdelmade0744)
-- Shiv Pandey | [Github](https://github.com/shiv35)
-- Yelluri Vidyendra | [Github](https://github.com/yellurividyendra)
-- Shashank Agarwal | [GitHub](https://github.com/SALegend)
 
